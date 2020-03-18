@@ -5,7 +5,8 @@
 	margin-right: auto;
 	text-align: center;
 	font-family: 'Antic', sans-serif;
-	background-image: url("stars.png");		
+	background-image: url("stars.png");
+	background-size: cover; 
 	color: white;
 }
 h1 {
